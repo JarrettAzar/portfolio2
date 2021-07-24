@@ -34,12 +34,15 @@ h4,
 h5,
 h6 {
   font-variation-settings: 'wght' 650;
+  color: #fffdd0;
 }
 h1 {
   font-variation-settings: 'wght' 850;
+  color: #fffdd0;
 }
 h2 {
   font-variation-settings: 'wght' 750;
+  color: #fffdd0;
 }
 
 @media screen and (min-device-pixel-ratio: 1.5),
