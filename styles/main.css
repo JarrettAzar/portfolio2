@@ -24,7 +24,8 @@ body {
   font-variation-settings: 'wght' 450;
   font-variant: common-ligatures contextual;
   letter-spacing: -0.02em;
-  background-color: #3A4D4B
+  background-color: #3A4D4B;
+  color: #fffdd0;
 }
 b,
 strong,
