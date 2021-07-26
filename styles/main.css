@@ -49,6 +49,10 @@ h2 {
   color: #fffdd0
 }
 
+.p {
+  color: #fffdd0
+}
+
 @media screen and (min-device-pixel-ratio: 1.5),
   screen and (min-resolution: 1.5dppx) {
   body {
